@@ -1,51 +1,50 @@
-
-
 ![Banner](./banner.jpeg)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=SYSTEM%20INITIALIZED&fontSize=30&fontAlignY=40&animation=fadeIn&fontColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ED64&height=120&section=header&text=MERN%20%2B%20WEB3%20ENGINEER&fontSize=25&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E_zayn:%20software_architect;%3E_status:%20building_web3;%3E_focus:%20scalable_systems" alt="terminal typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Zayn;Architecting+the+future+of+web;Full+Stack+and+Decentralized+Systems" alt="typing" />
 </div>
 
 <div align="center">
-  <a href="https://z4yn.vercel.app"><img src="https://img.shields.io/badge/NETWORK-PORTFOLIO-00FFFF?style=for-the-badge&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/z4yn"><img src="https://img.shields.io/badge/UPLINK-LINKEDIN-FF00FF?style=for-the-badge&logoColor=black" /></a>
-  <a href="https://instagram.com/zaynndev"><img src="https://img.shields.io/badge/FEED-INSTAGRAM-39FF14?style=for-the-badge&logoColor=black" /></a>
+  <a href="https://z4yn.vercel.app"><img src="https://img.shields.io/badge/INTERFACE-PORTFOLIO-61DAFB?style=for-the-badge&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/z4yn"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-00ED64?style=for-the-badge&logoColor=black" /></a>
+  <a href="https://instagram.com/zaynndev"><img src="https://img.shields.io/badge/SOCIAL-INSTAGRAM-FF0080?style=for-the-badge&logoColor=black" /></a>
   <a href="https://github.com/ltlehro"><img src="https://img.shields.io/badge/SOURCE-GITHUB-FFFFFF?style=for-the-badge&logoColor=black" /></a>
 </div>
 
 <br>
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="600">
-  <tr>
-    <td style="background: #0d1117; border-left: 4px solid #00FFFF; padding: 20px; font-family: 'Fira Code', monospace;">
-      <p style="color: #00FFFF; margin: 0; font-size: 14px;">[LOG_START]</p>
-      <p style="color: #8b949e; margin: 10px 0; line-height: 1.6;">
-        Software developer specializing in high-performance decentralized architectures. I architect systems where transparency and scalability intersect. Over a year of experience shipping production-grade code across the full stack.
-      </p>
-      <p style="color: #00FFFF; margin: 0; font-size: 14px;">[LOG_END]</p>
-    </td>
-  </tr>
-</table>
+<p style="max-width: 600px; color: #8b949e; line-height: 1.6; font-size: 16px;">
+I am a software developer bridgebuilding between traditional full-stack excellence and the decentralized frontier. With over a year of experience, I specialize in the MERN stack while architecting scalable Web3 solutions. I focus on creating robust, secure, and intuitive systems that empower users.
+</p>
 </div>
 
 ---
 
-### // SYSTEM CORE_STACK
+### Core Engineering Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,solidity,react,nextjs&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,graphql,postgres,mongodb,docker&theme=dark" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center"><strong>Frontend</strong></td>
+      <td align="center"><strong>Backend</strong></td>
+      <td align="center"><strong>Blockchain</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=solidity,ethers,web3js,ipfs" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### // MAINFRAME_MODULES
+### Production Deployments
 
 <br>
 
@@ -53,24 +52,22 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="300" valign="top">
-      <div style="background: #0d1117; border: 1px solid #00FFFF; border-radius: 4px; padding: 20px; font-family: 'Fira Code', monospace;">
-        <p style="color: #00FFFF; font-size: 12px; margin: 0;">MOD_01 / ATTESTIFY</p>
-        <h3 style="color: #FFFFFF; margin: 10px 0;">attestify.</h3>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">
-          Decentralized engine utilizing SBTs and IPFS for permanent credential verification via QR authentication protocol.
+      <div style="background: rgba(13, 17, 23, 0.8); border: 1px solid rgba(0, 237, 100, 0.3); border-radius: 12px; padding: 24px; text-align: left;">
+        <h3 style="margin-top: 0; color: #00ED64;">attestify.</h3>
+        <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">
+          A decentralized engine utilizing Ethereum Soulbound Tokens and IPFS for permanent academic credential verification via QR.
         </p>
-        <p style="color: #39FF14; font-size: 11px; margin-top: 15px;">TECH_STACK: SOLIDITY / REACT / WEB3</p>
+        <p style="color: #61DAFB; font-size: 11px; margin-top: 15px; font-weight: bold;">WEB3 / REACT / IPFS</p>
       </div>
     </td>
     <td width="20"></td>
     <td width="300" valign="top">
-      <div style="background: #0d1117; border: 1px solid #FF00FF; border-radius: 4px; padding: 20px; font-family: 'Fira Code', monospace;">
-        <p style="color: #FF00FF; font-size: 12px; margin: 0;">MOD_02 / HOMIVIO</p>
-        <h3 style="color: #FFFFFF; margin: 10px 0;">HOMIVIO</h3>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">
-          High-throughput e-commerce interface with Next.js architecture and secure Stripe payment integration.
+      <div style="background: rgba(13, 17, 23, 0.8); border: 1px solid rgba(97, 218, 251, 0.3); border-radius: 12px; padding: 24px; text-align: left;">
+        <h3 style="margin-top: 0; color: #61DAFB;">HOMIVIO</h3>
+        <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">
+          A high-performance MERN storefront with seamless shopping experiences and secure Stripe-powered checkout systems.
         </p>
-        <p style="color: #39FF14; font-size: 11px; margin-top: 15px;">TECH_STACK: NEXT.JS / STRIPE / TAILWIND</p>
+        <p style="color: #00ED64; font-size: 11px; margin-top: 15px; font-weight: bold;">MERN / NEXTJS / STRIPE</p>
       </div>
     </td>
   </tr>
@@ -81,15 +78,14 @@
 
 ---
 
-### // NEURAL_STATISTICS
+### Network Intelligence
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltlehro&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=4&title_color=00FFFF&icon_color=00FFFF&text_color=8b949e" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltlehro&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ltlehro&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ED64&icon_color=61DAFB&text_color=8b949e" height="170" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=00FFFF&height=80&section=footer&text=CONNECTION%20SECURE&fontSize=20&fontColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ED64&height=40&section=footer" />
 </div>
