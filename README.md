@@ -50,8 +50,8 @@ I care a lot about code quality, clean architecture, and building things that ac
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltlehro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9c5f5&icon_color=a9c5f5&text_color=cdd6f4" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlehro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9c5f5&text_color=cdd6f4" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ltlehro&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9c5f5&icon_color=a9c5f5&text_color=cdd6f4" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlehro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9c5f5&text_color=cdd6f4" alt="top langs" />
 </p>
 
 <p align="center">
