@@ -3,84 +3,82 @@
 ![Banner](./banner.jpeg)
 
 <div align="center">
-  
-<a href="https://linkedin.com/in/z4yn"><img src="https://img.shields.io/badge/LinkedIn-z4yn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://z4yn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-z4yn.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://instagram.com/zaynndev"><img src="https://img.shields.io/badge/Instagram-zaynndev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=A9C5F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Web3+%26+Smart+Contracts;Architecting+Robust+Systems" alt="typing" />
-
-<br>
-
-<p align="center" style="max-width: 600px; font-size: 16px;">
-I'm a software developer focused on building scalable web applications and exploring the bleeding edge of Web3. With over a year of hands-on experience in full-stack engineering, I specialize in designing robust architectures, shipping polished user interfaces, and writing secure smart contracts.
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Zayn;Software+Developer;Web3+Architect" alt="typing" />
 </div>
-
----
-
-### Core Engineering Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,solidity" title="Languages: TypeScript, JavaScript, Python, C++, Solidity" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" title="Frontend: React, Next.js, Tailwind, Redux" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs" title="Backend: Node.js, Express, GraphQL, NestJS" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws" title="Infrastructure: PostgreSQL, MongoDB, Redis, Docker, AWS" />
+  <a href="https://z4yn.vercel.app">Portfolio</a> • 
+  <a href="https://linkedin.com/in/z4yn">LinkedIn</a> • 
+  <a href="https://instagram.com/zaynndev">Instagram</a> • 
+  <a href="https://github.com/ltlehro">GitHub</a>
+</div>
+
+<br>
+
+<div align="center">
+<p style="max-width: 550px; line-height: 1.6; color: #888;">
+Software developer specializing in high-performance web applications and decentralized systems. I focus on clean architecture, scalable infrastructure, and the intersection of Web 2.0 and Web 3.0.
+</p>
 </div>
 
 ---
 
-### Selected Work
+### Selected Projects
 
-*A highlight of production projects and high-value tools. More case studies available on my [portfolio](https://z4yn.vercel.app).*
+<br>
 
-<table>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="33%">
-      <h3 align="center">Decentralized Finance Protocol</h3>
-      <p align="center">A high-performance exchange interface interacting with highly optimized smart contracts.</p>
-      <p align="center"><code>Next.js</code> <code>Solidity</code></p>
+    <td width="300" valign="top">
+      <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; text-align: left;">
+        <h3 style="margin-top: 0; color: #58a6ff;">attestify.</h3>
+        <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">
+          Decentralized app utilizing Ethereum Soulbound Tokens and IPFS for permanent academic credential verification via QR.
+        </p>
+        <div style="margin-top: 16px;">
+          <code style="font-size: 11px; background: #161b22; color: #8b949e; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">Solidity</code>
+          <code style="font-size: 11px; background: #161b22; color: #8b949e; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">React</code>
+          <code style="font-size: 11px; background: #161b22; color: #8b949e; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">Web3</code>
+        </div>
+      </div>
     </td>
-    <td width="33%">
-      <h3 align="center">Data Pipeline Architecture</h3>
-      <p align="center">Distributed data ingestion system handling high-throughput event streams.</p>
-       <p align="center"><code>Node.js</code> <code>Redis</code></p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Open Source Dev Tooling</h3>
-      <p align="center">CLI utility accelerating local full-stack development workflows and container scaffolding.</p>
-       <p align="center"><code>TypeScript</code> <code>Docker</code></p>
+    <td width="20"></td>
+    <td width="300" valign="top">
+      <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; text-align: left;">
+        <h3 style="margin-top: 0; color: #58a6ff;">HOMIVIO</h3>
+        <p style="font-size: 14px; color: #8b949e; line-height: 1.5;">
+          High-performance e-commerce storefront with seamless React-based shopping and secure Stripe-powered checkout.
+        </p>
+        <div style="margin-top: 16px;">
+          <code style="font-size: 11px; background: #161b22; color: #8b949e; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">Next.js</code>
+          <code style="font-size: 11px; background: #161b22; color: #8b949e; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">Stripe</code>
+          <code style="font-size: 11px; background: #161b22; color: #8b949e; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">Tailwind</code>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
-
----
-
-### Current Focus & Writing
-
-I believe in building in public and documenting architectural decisions. 
-
-*   **Engineering:** Deepening expertise in zero-knowledge proofs and advanced backend patterns.
-*   **Building:** Architecting a microservices-based SaaS platform using NestJS.
-*   **Recent Thoughts:** I occasionally write about software design and Web3 infrastructure on [Medium/Substack Link Placeholder].
-
----
-
-### Open Source Activity
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ltlehro&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=1&column=4" alt="ltlehro trophies" />
-  </a>
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltlehro&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9c5f5&icon_color=a9c5f5&text_color=cdd6f4" alt="Stats" />
-</p>
+---
+
+### Intelligence & Reach
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,solidity,react,nextjs,tailwind,nodejs,express,graphql,postgres,mongodb,docker" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ltlehro&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000" height="150" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=30363d&height=40&section=footer" />
+</div>
